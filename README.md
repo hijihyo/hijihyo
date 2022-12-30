@@ -1,22 +1,8 @@
 ### Hi there 👋
 
-<!--
-**hijihyo/hijihyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🌱 I'm currently interested in AI, especially in Deep Learning!
-- 🔮 What I have done
+
+- 🔮 Achievements
   - Gold 4 at BOJ Online Judge [[link]](https://www.acmicpc.net/user/hijihyo)
   - 2020 UCPC Finals
   - Designed and implemented several pages in [KWEB Site](https://kwebofficial.com/)
@@ -24,3 +10,4 @@ Here are some ideas to get you started:
   - Assignments of Deep Learning at Korea University [[link]](https://github.com/hijihyo/ku-deep-learning)
   - Summarized and re-implemented some of the NLP papers [[link]](https://github.com/hijihyo/papers-with-code)
   - Built U-Net and DeepLabv3+ according to the original papers [[link]](https://github.com/hijihyo/unofficial-models)
+  - Summarized some of the papers I read [[link]](https://hijihyo.notion.site/Reading-Papers-faa0dddfb7c74010ad3657872808cf53)
